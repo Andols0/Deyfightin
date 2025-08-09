@@ -1,6 +1,6 @@
-## Interface: 110002
+## Interface: 110202
 ## Title: Deyfightin
-## Version: 11.0.2
+## Version: 11.2.0
 ## Notes: Oy
 ## Author: Andols
 ## X-Curse-Project-ID: 94079
